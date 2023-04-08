@@ -1,0 +1,17 @@
+C:\Users\Swayze\source\repos\Examproject\Examproject\bin\Debug\net7.0\Examproject.exe
+C:\Users\Swayze\source\repos\Examproject\Examproject\bin\Debug\net7.0\Examproject.deps.json
+C:\Users\Swayze\source\repos\Examproject\Examproject\bin\Debug\net7.0\Examproject.runtimeconfig.json
+C:\Users\Swayze\source\repos\Examproject\Examproject\bin\Debug\net7.0\Examproject.dll
+C:\Users\Swayze\source\repos\Examproject\Examproject\bin\Debug\net7.0\Examproject.pdb
+C:\Users\Swayze\source\repos\Examproject\Examproject\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Swayze\source\repos\Examproject\Examproject\obj\Debug\net7.0\Examproject.csproj.AssemblyReference.cache
+C:\Users\Swayze\source\repos\Examproject\Examproject\obj\Debug\net7.0\Examproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swayze\source\repos\Examproject\Examproject\obj\Debug\net7.0\Examproject.AssemblyInfoInputs.cache
+C:\Users\Swayze\source\repos\Examproject\Examproject\obj\Debug\net7.0\Examproject.AssemblyInfo.cs
+C:\Users\Swayze\source\repos\Examproject\Examproject\obj\Debug\net7.0\Examproject.csproj.CoreCompileInputs.cache
+C:\Users\Swayze\source\repos\Examproject\Examproject\obj\Debug\net7.0\Examproject.csproj.CopyComplete
+C:\Users\Swayze\source\repos\Examproject\Examproject\obj\Debug\net7.0\Examproject.dll
+C:\Users\Swayze\source\repos\Examproject\Examproject\obj\Debug\net7.0\refint\Examproject.dll
+C:\Users\Swayze\source\repos\Examproject\Examproject\obj\Debug\net7.0\Examproject.pdb
+C:\Users\Swayze\source\repos\Examproject\Examproject\obj\Debug\net7.0\Examproject.genruntimeconfig.cache
+C:\Users\Swayze\source\repos\Examproject\Examproject\obj\Debug\net7.0\ref\Examproject.dll
